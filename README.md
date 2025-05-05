@@ -12,12 +12,15 @@ Yulu has recently suffered considerable dips in its revenues. They have contract
 
 # 1. Focus on Weather Conditions:
  Prioritize bike availability and marketing efforts during clear weather conditions, as these periods demonstrate the highest demand. Consider offering weather-based discounts or promotions to encourage usage during cloudy or light rain.
+ 
  Justification: analysis reveals that clear weather strongly correlates with increased bike rentals, while heavy rain significantly dampens demand. Capitalizing on favorable weather and mitigating the impact of adverse weather can optimize bike usage.
  
 # 2. Address Seasonal Variations:
 Implement seasonal pricing strategies, adjusting rates based on demand patterns. Explore targeted marketing campaigns during Spring and Winter to address unusual value patterns observed in these seasons.
+
 Justification: While initial analysis suggested seasonality might not be a major factor, further investigation revealed potential variations in demand during Spring and Winter. Fine-tuning pricing and marketing efforts can optimize revenue and bike utilization across seasons.
 
 # 3. Leverage Working Day Insights:
 Focus on serving the regular commuter segment during working days and explore opportunities to expand casual ridership during holidays.
+
 Justification: analysis indicates that bike usage is significantly higher on working days, highlighting the importance of catering to commuters. However, exploring initiatives to encourage casual use during holidays can further broaden your customer base.

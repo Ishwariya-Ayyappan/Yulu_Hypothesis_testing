@@ -8,9 +8,9 @@ Yulu zones are located at all the appropriate locations (including metro station
 
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
-# Recommendations:
+# Recommendations & Justifications:
 
-# Recommendation 1. Focus on Weather Conditions:
+# 1. Focus on Weather Conditions:
  Prioritize bike availability and marketing efforts during clear weather conditions, as these periods demonstrate the highest demand. Consider offering weather-based discounts or promotions to encourage usage during cloudy or light rain.
  Justification: analysis reveals that clear weather strongly correlates with increased bike rentals, while heavy rain significantly dampens demand. Capitalizing on favorable weather and mitigating the impact of adverse weather can optimize bike usage.
  

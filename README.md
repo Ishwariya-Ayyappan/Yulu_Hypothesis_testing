@@ -104,16 +104,6 @@ For major changes, please open an issue first.
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone this repository.
-2. Install dependencies:  
-   `pip install pandas numpy scipy matplotlib seaborn`
-3. Open `yulu_hypothesis_testing-1.ipynb` in Jupyter Notebook.
-4. Run the notebook cells to reproduce the analysis and visualizations.
-
----
-
 ## 🤝 Contributing
 
 Pull requests and suggestions are welcome!  
